@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[1403],{58292:e=>{e.exports=JSON.parse('{"title":"Finance","slug":"/category/finance","permalink":"/note/docs/category/finance","navigation":{"previous":{"title":"index","permalink":"/note/docs/my/education/CN/"},"next":{"title":"JP","permalink":"/note/docs/category/jp"}}}')}}]);
