@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[7974],{23809:o=>{o.exports=JSON.parse('{"title":"product","slug":"/category/product","permalink":"/note/docs/category/product","navigation":{"previous":{"title":"outdoor","permalink":"/note/docs/my/furniture/outdoor"},"next":{"title":"buy","permalink":"/note/docs/my/product/Android/buy"}}}')}}]);
