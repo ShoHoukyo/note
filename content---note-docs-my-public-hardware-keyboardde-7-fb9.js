@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-hardware-keyboard-md-de7.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/hardware/keyboard","title":"keyboard","description":"mac キーボード","source":"@site/docs/my/public/hardware/keyboard.md","sourceDirName":"my/public/hardware","slug":"/my/public/hardware/keyboard","permalink":"/note/docs/my/public/hardware/keyboard","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"eink","permalink":"/note/docs/my/public/hardware/eink"},"next":{"title":"luggage","permalink":"/note/docs/my/public/hardware/luggage"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/hardware/keyboard","title":"keyboard","description":"mac キーボード","source":"@site/docs/my/public/hardware/keyboard.md","sourceDirName":"my/public/hardware","slug":"/my/public/hardware/keyboard","permalink":"/note/docs/my/public/hardware/keyboard","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"eink","permalink":"/note/docs/my/public/hardware/eink"},"next":{"title":"locate","permalink":"/note/docs/my/public/hardware/locate"}}');
 
 /***/ })
 

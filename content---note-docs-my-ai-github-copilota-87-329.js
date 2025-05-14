@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-ai-github-copilot-md-a87.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/AI/GithubCopilot","title":"GithubCopilot","description":"comment","source":"@site/docs/my/AI/GithubCopilot.md","sourceDirName":"my/AI","slug":"/my/AI/GithubCopilot","permalink":"/note/docs/my/AI/GithubCopilot","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"my notes","permalink":"/note/docs/my/"},"next":{"title":"technique","permalink":"/note/docs/my/AI/technique"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/AI/GithubCopilot","title":"GithubCopilot","description":"comment","source":"@site/docs/my/AI/GithubCopilot.md","sourceDirName":"my/AI","slug":"/my/AI/GithubCopilot","permalink":"/note/docs/my/AI/GithubCopilot","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"my notes","permalink":"/note/docs/my/"},"next":{"title":"access","permalink":"/note/docs/my/AI/access"}}');
 
 /***/ })
 

@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-os-linux-security-md-251.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/OS/Linux/security","title":"security","description":"Silverblue runs applications in containers. This fact means that you","source":"@site/docs/my/public/software/OS/Linux/security.md","sourceDirName":"my/public/software/OS/Linux","slug":"/my/public/software/OS/Linux/security","permalink":"/note/docs/my/public/software/OS/Linux/security","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"rescue","permalink":"/note/docs/my/public/software/OS/Linux/rescue"},"next":{"title":"unix","permalink":"/note/docs/my/public/software/OS/unix"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/OS/Linux/security","title":"security","description":"Silverblue runs applications in containers. This fact means that you","source":"@site/docs/my/public/software/OS/Linux/security.md","sourceDirName":"my/public/software/OS/Linux","slug":"/my/public/software/OS/Linux/security","permalink":"/note/docs/my/public/software/OS/Linux/security","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"rescue","permalink":"/note/docs/my/public/software/OS/Linux/rescue"},"next":{"title":"ui","permalink":"/note/docs/my/public/software/OS/Linux/ui"}}');
 
 /***/ })
 

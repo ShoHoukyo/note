@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-find-md-9ae.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/find","title":"find","description":"respect .gitignore","source":"@site/docs/my/public/software/find.md","sourceDirName":"my/public/software","slug":"/my/public/software/find","permalink":"/note/docs/my/public/software/find","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"ffmpeg","permalink":"/note/docs/my/public/software/ffmpeg"},"next":{"title":"game","permalink":"/note/docs/my/public/software/game"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/find","title":"find","description":"respect .gitignore","source":"@site/docs/my/public/software/find.md","sourceDirName":"my/public/software","slug":"/my/public/software/find","permalink":"/note/docs/my/public/software/find","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"ffmpeg","permalink":"/note/docs/my/public/software/ffmpeg"},"next":{"title":"forum","permalink":"/note/docs/my/public/software/forum"}}');
 
 /***/ })
 

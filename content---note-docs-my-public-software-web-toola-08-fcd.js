@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-web-tool-md-a08.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/Web/tool","title":"tool","description":"https://transform.tools/","source":"@site/docs/my/public/software/Web/tool.md","sourceDirName":"my/public/software/Web","slug":"/my/public/software/Web/tool","permalink":"/note/docs/my/public/software/Web/tool","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"svg","permalink":"/note/docs/my/public/software/Web/svg"},"next":{"title":"ledger","permalink":"/note/docs/my/public/software/accounting/ledger"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/Web/tool","title":"tool","description":"https://transform.tools/","source":"@site/docs/my/public/software/Web/tool.md","sourceDirName":"my/public/software/Web","slug":"/my/public/software/Web/tool","permalink":"/note/docs/my/public/software/Web/tool","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"svg","permalink":"/note/docs/my/public/software/Web/svg"},"next":{"title":"general","permalink":"/note/docs/my/public/software/accounting/general"}}');
 
 /***/ })
 

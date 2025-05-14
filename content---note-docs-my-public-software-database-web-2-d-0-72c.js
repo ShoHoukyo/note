@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-database-web-md-2d0.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/database/web","title":"web","description":"pouch couch","source":"@site/docs/my/public/software/database/web.md","sourceDirName":"my/public/software/database","slug":"/my/public/software/database/web","permalink":"/note/docs/my/public/software/database/web","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"sqlite","permalink":"/note/docs/my/public/software/database/sqlite"},"next":{"title":"diagram","permalink":"/note/docs/my/public/software/diagram"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/database/web","title":"web","description":"pouch couch","source":"@site/docs/my/public/software/database/web.md","sourceDirName":"my/public/software/database","slug":"/my/public/software/database/web","permalink":"/note/docs/my/public/software/database/web","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"tool","permalink":"/note/docs/my/public/software/database/tool"},"next":{"title":"diagram","permalink":"/note/docs/my/public/software/diagram"}}');
 
 /***/ })
 

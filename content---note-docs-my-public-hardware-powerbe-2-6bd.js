@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-hardware-power-md-be2.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/hardware/power","title":"power","description":"https://en.wikipedia.org/wiki/Coil_noise","source":"@site/docs/my/public/hardware/power.md","sourceDirName":"my/public/hardware","slug":"/my/public/hardware/power","permalink":"/note/docs/my/public/hardware/power","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"position","permalink":"/note/docs/my/public/hardware/position"},"next":{"title":"printer","permalink":"/note/docs/my/public/hardware/printer"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/hardware/power","title":"power","description":"https://en.wikipedia.org/wiki/Coil_noise","source":"@site/docs/my/public/hardware/power.md","sourceDirName":"my/public/hardware","slug":"/my/public/hardware/power","permalink":"/note/docs/my/public/hardware/power","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"point","permalink":"/note/docs/my/public/hardware/point"},"next":{"title":"printer","permalink":"/note/docs/my/public/hardware/printer"}}');
 
 /***/ })
 

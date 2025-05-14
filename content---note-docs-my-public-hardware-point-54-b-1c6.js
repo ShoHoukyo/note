@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-hardware-point-md-54b.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/hardware/point","title":"point","description":"drawing-pad also has mouse function","source":"@site/docs/my/public/hardware/point.md","sourceDirName":"my/public/hardware","slug":"/my/public/hardware/point","permalink":"/note/docs/my/public/hardware/point","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"phone","permalink":"/note/docs/my/public/hardware/phone"},"next":{"title":"position","permalink":"/note/docs/my/public/hardware/position"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/hardware/point","title":"point","description":"drawing-pad also has mouse function","source":"@site/docs/my/public/hardware/point.md","sourceDirName":"my/public/hardware","slug":"/my/public/hardware/point","permalink":"/note/docs/my/public/hardware/point","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"phone","permalink":"/note/docs/my/public/hardware/phone"},"next":{"title":"power","permalink":"/note/docs/my/public/hardware/power"}}');
 
 /***/ })
 

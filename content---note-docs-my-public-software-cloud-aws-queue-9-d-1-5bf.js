@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-cloud-aws-queue-md-9d1.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/cloud/AWS/queue","title":"queue","description":"- low-tech cron     easy (just add field to_process and GSI to DynamoDB)","source":"@site/docs/my/public/software/cloud/AWS/queue.md","sourceDirName":"my/public/software/cloud/AWS","slug":"/my/public/software/cloud/AWS/queue","permalink":"/note/docs/my/public/software/cloud/AWS/queue","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"network","permalink":"/note/docs/my/public/software/cloud/AWS/network"},"next":{"title":"security","permalink":"/note/docs/my/public/software/cloud/AWS/security"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/cloud/AWS/queue","title":"queue","description":"- low-tech cron     easy (just add field to_process and GSI to DynamoDB)","source":"@site/docs/my/public/software/cloud/AWS/queue.md","sourceDirName":"my/public/software/cloud/AWS","slug":"/my/public/software/cloud/AWS/queue","permalink":"/note/docs/my/public/software/cloud/AWS/queue","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"network","permalink":"/note/docs/my/public/software/cloud/AWS/network"},"next":{"title":"sdk","permalink":"/note/docs/my/public/software/cloud/AWS/sdk"}}');
 
 /***/ })
 

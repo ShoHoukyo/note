@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-cloud-aws-security-md-d69.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/cloud/AWS/security","title":"security","description":"as of 2023","source":"@site/docs/my/public/software/cloud/AWS/security.md","sourceDirName":"my/public/software/cloud/AWS","slug":"/my/public/software/cloud/AWS/security","permalink":"/note/docs/my/public/software/cloud/AWS/security","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"queue","permalink":"/note/docs/my/public/software/cloud/AWS/queue"},"next":{"title":"service","permalink":"/note/docs/my/public/software/cloud/AWS/service"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/cloud/AWS/security","title":"security","description":"as of 2023","source":"@site/docs/my/public/software/cloud/AWS/security.md","sourceDirName":"my/public/software/cloud/AWS","slug":"/my/public/software/cloud/AWS/security","permalink":"/note/docs/my/public/software/cloud/AWS/security","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"sdk","permalink":"/note/docs/my/public/software/cloud/AWS/sdk"},"next":{"title":"vpc","permalink":"/note/docs/my/public/software/cloud/AWS/vpc"}}');
 
 /***/ })
 

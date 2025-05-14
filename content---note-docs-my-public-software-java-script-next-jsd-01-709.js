@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-java-script-next-js-md-d01.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/JavaScript/next.js","title":"next.js","description":"competitor","source":"@site/docs/my/public/software/JavaScript/next.js.md","sourceDirName":"my/public/software/JavaScript","slug":"/my/public/software/JavaScript/next.js","permalink":"/note/docs/my/public/software/JavaScript/next.js","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"jest","permalink":"/note/docs/my/public/software/JavaScript/jest"},"next":{"title":"nodejs","permalink":"/note/docs/my/public/software/JavaScript/nodejs"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/JavaScript/next.js","title":"next.js","description":"competitor","source":"@site/docs/my/public/software/JavaScript/next.js.md","sourceDirName":"my/public/software/JavaScript","slug":"/my/public/software/JavaScript/next.js","permalink":"/note/docs/my/public/software/JavaScript/next.js","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"library","permalink":"/note/docs/my/public/software/JavaScript/library"},"next":{"title":"nodejs","permalink":"/note/docs/my/public/software/JavaScript/nodejs"}}');
 
 /***/ })
 

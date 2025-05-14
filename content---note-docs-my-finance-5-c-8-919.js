@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-finance-index-md-5c8.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/finance/index","title":"index","description":"calculation","source":"@site/docs/my/finance/index.md","sourceDirName":"my/finance","slug":"/my/finance/","permalink":"/note/docs/my/finance/","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"crypto","permalink":"/note/docs/my/finance/crypto"},"next":{"title":"insurance","permalink":"/note/docs/my/finance/insurance"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/finance/index","title":"index","description":"calculation","source":"@site/docs/my/finance/index.md","sourceDirName":"my/finance","slug":"/my/finance/","permalink":"/note/docs/my/finance/","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"currency","permalink":"/note/docs/my/finance/currency"},"next":{"title":"insurance","permalink":"/note/docs/my/finance/insurance"}}');
 
 /***/ })
 

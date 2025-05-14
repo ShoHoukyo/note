@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-hardware-luggage-md-752.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/hardware/luggage","title":"luggage","description":"spec","source":"@site/docs/my/public/hardware/luggage.md","sourceDirName":"my/public/hardware","slug":"/my/public/hardware/luggage","permalink":"/note/docs/my/public/hardware/luggage","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"keyboard","permalink":"/note/docs/my/public/hardware/keyboard"},"next":{"title":"jp","permalink":"/note/docs/my/public/hardware/notebook/jp"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/hardware/luggage","title":"luggage","description":"spec","source":"@site/docs/my/public/hardware/luggage.md","sourceDirName":"my/public/hardware","slug":"/my/public/hardware/luggage","permalink":"/note/docs/my/public/hardware/luggage","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"locate","permalink":"/note/docs/my/public/hardware/locate"},"next":{"title":"jp","permalink":"/note/docs/my/public/hardware/notebook/jp"}}');
 
 /***/ })
 

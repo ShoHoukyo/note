@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-data-md-fa8.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/data","title":"data","description":"Good starting points:","source":"@site/docs/my/public/data.md","sourceDirName":"my/public","slug":"/my/public/data","permalink":"/note/docs/my/public/data","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"pattern","permalink":"/note/docs/my/public/business/pattern"},"next":{"title":"image","permalink":"/note/docs/my/public/design/image"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/data","title":"data","description":"Good starting points:","source":"@site/docs/my/public/data.md","sourceDirName":"my/public","slug":"/my/public/data","permalink":"/note/docs/my/public/data","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"bitcoin","permalink":"/note/docs/my/public/crypto/bitcoin"},"next":{"title":"image","permalink":"/note/docs/my/public/design/image"}}');
 
 /***/ })
 

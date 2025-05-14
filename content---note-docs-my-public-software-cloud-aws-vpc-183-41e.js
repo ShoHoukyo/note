@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-cloud-aws-vpc-md-183.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/cloud/AWS/vpc","title":"vpc","description":"What is Amazon VPC? - Amazon Virtual Private Cloud","source":"@site/docs/my/public/software/cloud/AWS/vpc.md","sourceDirName":"my/public/software/cloud/AWS","slug":"/my/public/software/cloud/AWS/vpc","permalink":"/note/docs/my/public/software/cloud/AWS/vpc","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"service","permalink":"/note/docs/my/public/software/cloud/AWS/service"},"next":{"title":"web_console","permalink":"/note/docs/my/public/software/cloud/AWS/web_console"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/cloud/AWS/vpc","title":"vpc","description":"What is Amazon VPC? - Amazon Virtual Private Cloud","source":"@site/docs/my/public/software/cloud/AWS/vpc.md","sourceDirName":"my/public/software/cloud/AWS","slug":"/my/public/software/cloud/AWS/vpc","permalink":"/note/docs/my/public/software/cloud/AWS/vpc","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"security","permalink":"/note/docs/my/public/software/cloud/AWS/security"},"next":{"title":"web_console","permalink":"/note/docs/my/public/software/cloud/AWS/web_console"}}');
 
 /***/ })
 

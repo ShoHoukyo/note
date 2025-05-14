@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-java-script-functional-md-fbc.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/JavaScript/functional","title":"functional","description":"iterable is not array-like, so array methods does not work on it","source":"@site/docs/my/public/software/JavaScript/functional.md","sourceDirName":"my/public/software/JavaScript","slug":"/my/public/software/JavaScript/functional","permalink":"/note/docs/my/public/software/JavaScript/functional","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"dom","permalink":"/note/docs/my/public/software/JavaScript/dom"},"next":{"title":"jest","permalink":"/note/docs/my/public/software/JavaScript/jest"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/JavaScript/functional","title":"functional","description":"iterable is not array-like, so array methods does not work on it","source":"@site/docs/my/public/software/JavaScript/functional.md","sourceDirName":"my/public/software/JavaScript","slug":"/my/public/software/JavaScript/functional","permalink":"/note/docs/my/public/software/JavaScript/functional","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"error","permalink":"/note/docs/my/public/software/JavaScript/error"},"next":{"title":"jest","permalink":"/note/docs/my/public/software/JavaScript/jest"}}');
 
 /***/ })
 

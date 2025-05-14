@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-legal-cn-inherit-md-f3b.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/legal/CN/inherit","title":"inherit","description":"最高人民法院关于适用《中华人民共和国民法典》继承编的解释","source":"@site/docs/my/public/legal/CN/inherit.md","sourceDirName":"my/public/legal/CN","slug":"/my/public/legal/CN/inherit","permalink":"/note/docs/my/public/legal/CN/inherit","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"tool","permalink":"/note/docs/my/public/language/English/tool"},"next":{"title":"tip","permalink":"/note/docs/my/public/legal/CN/tip"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/legal/CN/inherit","title":"inherit","description":"最高人民法院关于适用《中华人民共和国民法典》继承编的解释","source":"@site/docs/my/public/legal/CN/inherit.md","sourceDirName":"my/public/legal/CN","slug":"/my/public/legal/CN/inherit","permalink":"/note/docs/my/public/legal/CN/inherit","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"tool","permalink":"/note/docs/my/public/language/Japanese/tool"},"next":{"title":"tip","permalink":"/note/docs/my/public/legal/CN/tip"}}');
 
 /***/ })
 

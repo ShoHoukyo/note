@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-service-phone-ocn-md-152.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/service/phone-OCN","title":"phone-OCN","description":"なお、発信時にお客さまの操作によりOCNでんわのプレフィックス番号を付加","source":"@site/docs/my/public/service/phone-OCN.md","sourceDirName":"my/public/service","slug":"/my/public/service/phone-OCN","permalink":"/note/docs/my/public/service/phone-OCN","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"video","permalink":"/note/docs/my/public/service/online/video"},"next":{"title":"phone","permalink":"/note/docs/my/public/service/phone"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/service/phone-OCN","title":"phone-OCN","description":"なお、発信時にお客さまの操作によりOCNでんわのプレフィックス番号を付加","source":"@site/docs/my/public/service/phone-OCN.md","sourceDirName":"my/public/service","slug":"/my/public/service/phone-OCN","permalink":"/note/docs/my/public/service/phone-OCN","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"video","permalink":"/note/docs/my/public/service/online/video"},"next":{"title":"phone-povo","permalink":"/note/docs/my/public/service/phone-povo"}}');
 
 /***/ })
 

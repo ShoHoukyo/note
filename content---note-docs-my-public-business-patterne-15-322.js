@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-business-pattern-md-e15.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/business/pattern","title":"pattern","description":"2024-03-02 ゼロつくBM図解の解説  『ゼロからつくるビジネスモデル』東洋経済新報社","source":"@site/docs/my/public/business/pattern.md","sourceDirName":"my/public/business","slug":"/my/public/business/pattern","permalink":"/note/docs/my/public/business/pattern","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"IT","permalink":"/note/docs/my/public/business/IT"},"next":{"title":"data","permalink":"/note/docs/my/public/data"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/business/pattern","title":"pattern","description":"2024-03-02 ゼロつくBM図解の解説  『ゼロからつくるビジネスモデル』東洋経済新報社","source":"@site/docs/my/public/business/pattern.md","sourceDirName":"my/public/business","slug":"/my/public/business/pattern","permalink":"/note/docs/my/public/business/pattern","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"IT","permalink":"/note/docs/my/public/business/IT"},"next":{"title":"bitcoin","permalink":"/note/docs/my/public/crypto/bitcoin"}}');
 
 /***/ })
 

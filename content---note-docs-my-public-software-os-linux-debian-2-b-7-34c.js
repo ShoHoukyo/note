@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-os-linux-debian-md-2b7.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/OS/Linux/debian","title":"debian","description":"https://distrowatch.com/table.php?distribution=debian","source":"@site/docs/my/public/software/OS/Linux/debian.md","sourceDirName":"my/public/software/OS/Linux","slug":"/my/public/software/OS/Linux/debian","permalink":"/note/docs/my/public/software/OS/Linux/debian","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"apt","permalink":"/note/docs/my/public/software/OS/Linux/apt"},"next":{"title":"distro","permalink":"/note/docs/my/public/software/OS/Linux/distro"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/OS/Linux/debian","title":"debian","description":"https://distrowatch.com/table.php?distribution=debian","source":"@site/docs/my/public/software/OS/Linux/debian.md","sourceDirName":"my/public/software/OS/Linux","slug":"/my/public/software/OS/Linux/debian","permalink":"/note/docs/my/public/software/OS/Linux/debian","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"containerForUI","permalink":"/note/docs/my/public/software/OS/Linux/containerForUI"},"next":{"title":"distro","permalink":"/note/docs/my/public/software/OS/Linux/distro"}}');
 
 /***/ })
 

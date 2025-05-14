@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-os-unix-md-928.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/OS/unix","title":"unix","description":"http://www.kuqin.com/linux/20120824/329555.html","source":"@site/docs/my/public/software/OS/unix.md","sourceDirName":"my/public/software/OS","slug":"/my/public/software/OS/unix","permalink":"/note/docs/my/public/software/OS/unix","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"security","permalink":"/note/docs/my/public/software/OS/Linux/security"},"next":{"title":"PIM","permalink":"/note/docs/my/public/software/PIM"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/OS/unix","title":"unix","description":"http://www.kuqin.com/linux/20120824/329555.html","source":"@site/docs/my/public/software/OS/unix.md","sourceDirName":"my/public/software/OS","slug":"/my/public/software/OS/unix","permalink":"/note/docs/my/public/software/OS/unix","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"ui","permalink":"/note/docs/my/public/software/OS/Linux/ui"},"next":{"title":"PIM","permalink":"/note/docs/my/public/software/PIM"}}');
 
 /***/ })
 

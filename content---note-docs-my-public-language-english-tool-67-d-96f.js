@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-language-english-tool-md-67d.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/language/English/tool","title":"tool","description":"https://dictionary.cambridge.org/dictionary/english","source":"@site/docs/my/public/language/English/tool.md","sourceDirName":"my/public/language/English","slug":"/my/public/language/English/tool","permalink":"/note/docs/my/public/language/English/tool","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"knowledgeBase","permalink":"/note/docs/my/public/knowledgeBase"},"next":{"title":"inherit","permalink":"/note/docs/my/public/legal/CN/inherit"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/language/English/tool","title":"tool","description":"https://dictionary.cambridge.org/dictionary/english","source":"@site/docs/my/public/language/English/tool.md","sourceDirName":"my/public/language/English","slug":"/my/public/language/English/tool","permalink":"/note/docs/my/public/language/English/tool","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"knowledgeBase","permalink":"/note/docs/my/public/knowledgeBase"},"next":{"title":"tool","permalink":"/note/docs/my/public/language/Japanese/tool"}}');
 
 /***/ })
 

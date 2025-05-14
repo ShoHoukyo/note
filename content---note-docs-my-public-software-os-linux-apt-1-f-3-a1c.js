@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-os-linux-apt-md-1f3.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/OS/Linux/apt","title":"apt","description":"LAN apt cache","source":"@site/docs/my/public/software/OS/Linux/apt.md","sourceDirName":"my/public/software/OS/Linux","slug":"/my/public/software/OS/Linux/apt","permalink":"/note/docs/my/public/software/OS/Linux/apt","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"soft","permalink":"/note/docs/my/public/software/OS/Linux/Ubuntu/soft"},"next":{"title":"debian","permalink":"/note/docs/my/public/software/OS/Linux/debian"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/OS/Linux/apt","title":"apt","description":"LAN apt cache","source":"@site/docs/my/public/software/OS/Linux/apt.md","sourceDirName":"my/public/software/OS/Linux","slug":"/my/public/software/OS/Linux/apt","permalink":"/note/docs/my/public/software/OS/Linux/apt","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"soft","permalink":"/note/docs/my/public/software/OS/Linux/Ubuntu/soft"},"next":{"title":"containerForUI","permalink":"/note/docs/my/public/software/OS/Linux/containerForUI"}}');
 
 /***/ })
 

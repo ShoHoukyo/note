@@ -26,7 +26,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-finance-jp-timeline-md-0fd.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/finance/JP/timeline","title":"timeline","description":"2023-07-29","source":"@site/docs/my/finance/JP/timeline.md","sourceDirName":"my/finance/JP","slug":"/my/finance/JP/timeline","permalink":"/note/docs/my/finance/JP/timeline","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"tax","permalink":"/note/docs/my/finance/JP/tax"},"next":{"title":"crypto","permalink":"/note/docs/my/finance/crypto"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/finance/JP/timeline","title":"timeline","description":"2023-07-29","source":"@site/docs/my/finance/JP/timeline.md","sourceDirName":"my/finance/JP","slug":"/my/finance/JP/timeline","permalink":"/note/docs/my/finance/JP/timeline","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"tax","permalink":"/note/docs/my/finance/JP/tax"},"next":{"title":"algo","permalink":"/note/docs/my/finance/algo"}}');
 
 /***/ })
 
