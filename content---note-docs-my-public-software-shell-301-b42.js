@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-shell-md-301.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/shell","title":"shell","description":"bash","source":"@site/docs/my/public/software/shell.md","sourceDirName":"my/public/software","slug":"/my/public/software/shell","permalink":"/note/docs/my/public/software/shell","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"search_tracker","permalink":"/note/docs/my/public/software/search_tracker"},"next":{"title":"shellEnv","permalink":"/note/docs/my/public/software/shellEnv"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/shell","title":"shell","description":"bash","source":"@site/docs/my/public/software/shell.md","sourceDirName":"my/public/software","slug":"/my/public/software/shell","permalink":"/note/docs/my/public/software/shell","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"semver","permalink":"/note/docs/my/public/software/semver"},"next":{"title":"shellEnv","permalink":"/note/docs/my/public/software/shellEnv"}}');
 
 /***/ }),
 
