@@ -3304,6 +3304,15 @@ trying --my    eventually all colors have to derive from --my-color-primary
   content: '...';
 }
 
+/*
+Overrides default ul style from Infima
+See https://github.com/AnyRoad/react-json-view-lite/issues/38
+*/
+.childFieldsContainerParaiso_hs_3 {
+  margin: 0;
+  padding: 0;
+}
+
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
@@ -3410,6 +3419,28 @@ trying --my    eventually all colors have to derive from --my-color-primary
   opacity: 1;
   transform: scale(1);
   visibility: visible;
+}
+
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+body:not(.navigation-with-keyboard) *:not(input):focus {
+  outline: none;
+}
+
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+#__docusaurus-base-url-issue-banner-container {
+  display: none;
 }
 
 /**
@@ -3555,9 +3586,14 @@ html[data-announcement-bar-initially-dismissed='true'] .announcementBar_mb4j {
   background: var(--ifm-color-emphasis-200);
 }
 
-[data-theme='light'] .darkToggleIcon_wfgR,
-[data-theme='dark'] .lightToggleIcon_pyhR {
+.toggleIcon_g3eP {
   display: none;
+}
+
+[data-theme-choice='system'] .systemToggleIcon_QzmC,
+[data-theme-choice='light'] .lightToggleIcon_pyhR,
+[data-theme-choice='dark'] .darkToggleIcon_wfgR {
+  display: initial;
 }
 
 .toggleButtonDisabled_aARS {
@@ -3670,6 +3706,41 @@ html:not([data-theme]) .themedComponent--light_NVdE {
 
 .menuExternalLink_NmtK {
   align-items: center;
+}
+
+.linkLabel_WmDU {
+  overflow: hidden;
+  display: -webkit-box;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+.categoryLink_byQd {
+  overflow: hidden;
+}
+
+/*
+TODO merge this logic back in Infima?
+ */
+.menu__link--sublist-caret::after {
+  margin-left: var(--ifm-menu-link-padding-vertical);
+}
+
+.categoryLinkLabel_W154 {
+  flex: 1;
+  overflow: hidden;
+  display: -webkit-box;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
 }
 
 /**
@@ -3884,18 +3955,20 @@ html:not([data-theme]) .themedComponent--light_NVdE {
  * LICENSE file in the root directory of this source tree.
  */
 
-/*
-When the navbar is sticky, ensure that on anchor click,
-the browser does not scroll that anchor behind the navbar
-See https://x.com/JoshWComeau/status/1332015868725891076
- */
-.anchorWithStickyNavbar_LWe7 {
+.anchorTargetStickyNavbar_Vzrq {
   scroll-margin-top: calc(var(--ifm-navbar-height) + 0.5rem);
 }
 
-.anchorWithHideOnScrollNavbar_WYt5 {
+.anchorTargetHideOnScrollNavbar_vjPI {
   scroll-margin-top: 0.5rem;
 }
+
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
 
 .hash-link {
   opacity: 0;
@@ -3956,7 +4029,22 @@ See https://x.com/JoshWComeau/status/1332015868725891076
  * LICENSE file in the root directory of this source tree.
  */
 
-.dropdownNavbarItemMobile_S0Fm {
+.docCardListItem_W1sv {
+  margin-bottom: 2rem;
+}
+
+.docCardListItem_W1sv > * {
+  height: 100%;
+}
+
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+.dropdownNavbarItemMobile_J0Sd {
   cursor: pointer;
 }
 
@@ -3996,8 +4084,7 @@ See https://github.com/facebook/docusaurus/pull/9385
 
 @media (min-width: 997px) {
   .navbarSearchContainer_Bca1 {
-    padding: var(--ifm-navbar-item-padding-vertical)
-      var(--ifm-navbar-item-padding-horizontal);
+    padding: 0 var(--ifm-navbar-item-padding-horizontal);
   }
 }
 
@@ -4014,22 +4101,6 @@ See https://github.com/facebook/docusaurus/pull/9385
 
 .navbarHidden_jGov {
   transform: translate3d(0, calc(-100% - 2px), 0);
-}
-
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-/*
-Hide color mode toggle in small viewports
- */
-@media (max-width: 996px) {
-  .colorModeToggle_DEke {
-    display: none;
-  }
 }
 
 /**
@@ -4056,19 +4127,21 @@ Hide color mode toggle in small viewports
  * LICENSE file in the root directory of this source tree.
  */
 
-body:not(.navigation-with-keyboard) *:not(input):focus {
-  outline: none;
+/*
+Hide color mode toggle in small viewports
+ */
+@media (max-width: 996px) {
+  .colorModeToggle_DEke {
+    display: none;
+  }
 }
 
-/**
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
+/*
+Restore some Infima style that broke with CSS Cascade Layers
+See https://github.com/facebook/docusaurus/pull/11142
  */
-
-#__docusaurus-base-url-issue-banner-container {
-  display: none;
+.navbar__items--right > :last-child {
+  padding-right: 0;
 }
 
 /**
@@ -4272,6 +4345,66 @@ body {
  * LICENSE file in the root directory of this source tree.
  */
 
+[data-theme='dark'] .linkedinSvg_FCgI {
+  fill: var(--light);
+}
+
+[data-theme='light'] .linkedinSvg_FCgI {
+  fill: var(--dark);
+}
+
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+[data-theme='dark'] .blueskySvg_AzZw {
+  fill: var(--light);
+}
+
+[data-theme='light'] .blueskySvg_AzZw {
+  fill: var(--dark);
+}
+
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+[data-theme='dark'] .instagramSvg_YC40 {
+  fill: var(--light);
+}
+
+[data-theme='light'] .instagramSvg_YC40 {
+  fill: var(--dark);
+}
+
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+[data-theme='dark'] .threadsSvg_PTXY {
+  fill: var(--light);
+}
+
+[data-theme='light'] .threadsSvg_PTXY {
+  fill: var(--dark);
+}
+
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
 :root {
   --docusaurus-blog-social-icon-size: 1rem;
 }
@@ -4435,31 +4568,10 @@ body {
  * LICENSE file in the root directory of this source tree.
  */
 
-.codeBlockContent_biex {
-  position: relative;
-  /* rtl:ignore */
-  direction: ltr;
-  border-radius: inherit;
-}
-
-.codeBlockTitle_Ktv7 {
-  border-bottom: 1px solid var(--ifm-color-emphasis-300);
-  font-size: var(--ifm-code-font-size);
-  font-weight: 500;
-  padding: 0.75rem var(--ifm-pre-padding);
-  border-top-left-radius: inherit;
-  border-top-right-radius: inherit;
-}
-
 .codeBlock_bY9V {
   --ifm-pre-background: var(--prism-background-color);
   margin: 0;
   padding: 0;
-}
-
-.codeBlockTitle_Ktv7 + .codeBlockContent_biex .codeBlock_bY9V {
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
 }
 
 .codeBlockStandalone_MEMb {
@@ -4483,37 +4595,6 @@ body {
   .codeBlockLines_e6Vv {
     white-space: pre-wrap;
   }
-}
-
-.buttonGroup__atx {
-  display: flex;
-  column-gap: 0.2rem;
-  position: absolute;
-  /* rtl:ignore */
-  right: calc(var(--ifm-pre-padding) / 2);
-  top: calc(var(--ifm-pre-padding) / 2);
-}
-
-.buttonGroup__atx button {
-  display: flex;
-  align-items: center;
-  background: var(--prism-background-color);
-  color: var(--prism-color);
-  border: 1px solid var(--ifm-color-emphasis-300);
-  border-radius: var(--ifm-global-radius);
-  padding: 0.4rem;
-  line-height: 0;
-  transition: opacity var(--ifm-transition-fast) ease-in-out;
-  opacity: 0;
-}
-
-.buttonGroup__atx button:focus-visible,
-.buttonGroup__atx button:hover {
-  opacity: 1 !important;
-}
-
-.theme-code-block:hover .buttonGroup__atx button {
-  opacity: 0.4;
 }
 
 /**
@@ -4576,18 +4657,18 @@ the background in custom CSS file due bug https://github.com/facebook/docusaurus
  * LICENSE file in the root directory of this source tree.
  */
 
-.theme-code-block:hover .copyButtonCopied_obH4 {
+.theme-code-block:hover .copyButtonCopied_Vdqa {
   opacity: 1 !important;
 }
 
-.copyButtonIcons_eSgA {
+.copyButtonIcons_IEyt {
   position: relative;
   width: 1.125rem;
   height: 1.125rem;
 }
 
-.copyButtonIcon_y97N,
-.copyButtonSuccessIcon_LjdS {
+.copyButtonIcon_TrPX,
+.copyButtonSuccessIcon_cVMy {
   position: absolute;
   top: 0;
   left: 0;
@@ -4598,7 +4679,7 @@ the background in custom CSS file due bug https://github.com/facebook/docusaurus
   transition: all var(--ifm-transition-fast) ease;
 }
 
-.copyButtonSuccessIcon_LjdS {
+.copyButtonSuccessIcon_cVMy {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%) scale(0.33);
@@ -4606,12 +4687,12 @@ the background in custom CSS file due bug https://github.com/facebook/docusaurus
   color: #00d600;
 }
 
-.copyButtonCopied_obH4 .copyButtonIcon_y97N {
+.copyButtonCopied_Vdqa .copyButtonIcon_TrPX {
   transform: scale(0.33);
   opacity: 0;
 }
 
-.copyButtonCopied_obH4 .copyButtonSuccessIcon_LjdS {
+.copyButtonCopied_Vdqa .copyButtonSuccessIcon_cVMy {
   transform: translate(-50%, -50%) scale(1);
   opacity: 1;
   transition-delay: 0.075s;
@@ -4624,13 +4705,79 @@ the background in custom CSS file due bug https://github.com/facebook/docusaurus
  * LICENSE file in the root directory of this source tree.
  */
 
-.wordWrapButtonIcon_Bwma {
+.wordWrapButtonIcon_b1P5 {
   width: 1.2rem;
   height: 1.2rem;
 }
 
-.wordWrapButtonEnabled_EoeP .wordWrapButtonIcon_Bwma {
+.wordWrapButtonEnabled_uzNF .wordWrapButtonIcon_b1P5 {
   color: var(--ifm-color-primary);
+}
+
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+.buttonGroup_M5ko {
+  display: flex;
+  column-gap: 0.2rem;
+  position: absolute;
+  /* rtl:ignore */
+  right: calc(var(--ifm-pre-padding) / 2);
+  top: calc(var(--ifm-pre-padding) / 2);
+}
+
+.buttonGroup_M5ko button {
+  display: flex;
+  align-items: center;
+  background: var(--prism-background-color);
+  color: var(--prism-color);
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: var(--ifm-global-radius);
+  padding: 0.4rem;
+  line-height: 0;
+  transition: opacity var(--ifm-transition-fast) ease-in-out;
+  opacity: 0;
+}
+
+.buttonGroup_M5ko button:focus-visible,
+.buttonGroup_M5ko button:hover {
+  opacity: 1 !important;
+}
+
+.theme-code-block:hover .buttonGroup_M5ko button {
+  opacity: 0.4;
+}
+
+/**
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+.codeBlockContent_QJqH {
+  position: relative;
+  /* rtl:ignore */
+  direction: ltr;
+  border-radius: inherit;
+}
+
+.codeBlockTitle_OeMC {
+  border-bottom: 1px solid var(--ifm-color-emphasis-300);
+  font-size: var(--ifm-code-font-size);
+  font-weight: 500;
+  padding: 0.75rem var(--ifm-pre-padding);
+  border-top-left-radius: inherit;
+  border-top-right-radius: inherit;
+}
+
+.codeBlockTitle_OeMC + .codeBlockContent_QJqH .codeBlock_a8dz {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
 }
 
 /**
@@ -4860,6 +5007,12 @@ CSS variables, meant to be overridden by final theme
   }
 }
 
+@media print {
+  .noPrint_WFHX {
+    display: none;
+  }
+}
+
 /**
  * Copyright (c) Facebook, Inc. and its affiliates.
  *
@@ -5073,20 +5226,12 @@ CSS variables, meant to be overridden by final theme
   .generatedIndexPage_vN6x {
     max-width: 75% !important;
   }
-
-  .list_eTzJ article:nth-last-child(-n + 2) {
-    margin-bottom: 0 !important;
-  }
 }
 
 /* Duplicated from .markdown h1 */
 .title_kItE {
   --ifm-h1-font-size: 3rem;
   margin-bottom: calc(1.25 * var(--ifm-leading));
-}
-
-.list_eTzJ article:last-child {
-  margin-bottom: 0 !important;
 }
 
 /**
