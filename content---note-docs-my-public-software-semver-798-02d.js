@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-semver-md-798.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/semver","title":"semver","description":"- search for file semver/README.md for node","source":"@site/docs/my/public/software/semver.md","sourceDirName":"my/public/software","slug":"/my/public/software/semver","permalink":"/note/docs/my/public/software/semver","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"search_tracker","permalink":"/note/docs/my/public/software/search_tracker"},"next":{"title":"shell","permalink":"/note/docs/my/public/software/shell"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/semver","title":"semver","description":"- search for file semver/README.md for node","source":"@site/docs/my/public/software/semver.md","sourceDirName":"my/public/software","slug":"/my/public/software/semver","permalink":"/note/docs/my/public/software/semver","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"security","permalink":"/note/docs/my/public/software/security/"},"next":{"title":"shell","permalink":"/note/docs/my/public/software/shell"}}');
 
 /***/ }),
 

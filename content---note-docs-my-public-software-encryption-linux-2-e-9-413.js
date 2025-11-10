@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-encryption-linux-md-2e9.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/encryption/linux","title":"linux","description":"ubuntu","source":"@site/docs/my/public/software/encryption/linux.md","sourceDirName":"my/public/software/encryption","slug":"/my/public/software/encryption/linux","permalink":"/note/docs/my/public/software/encryption/linux","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"drive","permalink":"/note/docs/my/public/software/encryption/drive"},"next":{"title":"excel_like_db","permalink":"/note/docs/my/public/software/excel_like_db"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/encryption/linux","title":"linux","description":"ubuntu","source":"@site/docs/my/public/software/encryption/linux.md","sourceDirName":"my/public/software/encryption","slug":"/my/public/software/encryption/linux","permalink":"/note/docs/my/public/software/encryption/linux","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"drive","permalink":"/note/docs/my/public/software/encryption/drive"},"next":{"title":"engineer","permalink":"/note/docs/my/public/software/engineer"}}');
 
 /***/ }),
 

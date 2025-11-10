@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-wget-md-297.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/wget","title":"wget","description":"2025 no way to limit individual file size","source":"@site/docs/my/public/software/wget.md","sourceDirName":"my/public/software","slug":"/my/public/software/wget","permalink":"/note/docs/my/public/software/wget","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"vscode","permalink":"/note/docs/my/public/software/vscode"},"next":{"title":"markdown","permalink":"/note/docs/my/test/markdown"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/wget","title":"wget","description":"2025 no way to limit individual file size","source":"@site/docs/my/public/software/wget.md","sourceDirName":"my/public/software","slug":"/my/public/software/wget","permalink":"/note/docs/my/public/software/wget","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"vscode","permalink":"/note/docs/my/public/software/vscode"},"next":{"title":"2025-11-07 by gemini","permalink":"/note/docs/my/public/software/youtube"}}');
 
 /***/ }),
 

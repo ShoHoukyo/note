@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-index-md-8ea.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/index","title":"index","description":"https://tableconvert.com/","source":"@site/docs/my/public/software/index.md","sourceDirName":"my/public/software","slug":"/my/public/software/","permalink":"/note/docs/my/public/software/","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"travel","permalink":"/note/docs/my/public/service/travel"},"next":{"title":"How_to_Reduce_Docker_Desktop_GUI_Logging_on_macOS","permalink":"/note/docs/my/public/software/Docker/How_to_Reduce_Docker_Desktop_GUI_Logging_on_macOS"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/index","title":"index","description":"https://tableconvert.com/","source":"@site/docs/my/public/software/index.md","sourceDirName":"my/public/software","slug":"/my/public/software/","permalink":"/note/docs/my/public/software/","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"travel","permalink":"/note/docs/my/public/service/travel"},"next":{"title":"AItool","permalink":"/note/docs/my/public/software/AItool"}}');
 
 /***/ }),
 

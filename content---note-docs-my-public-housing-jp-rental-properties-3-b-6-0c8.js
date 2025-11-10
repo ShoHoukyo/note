@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-housing-jp-rental-properties-md-3b6.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/housing/JP/rentalProperties","title":"rentalProperties","description":"","source":"@site/docs/my/public/housing/JP/rentalProperties.md","sourceDirName":"my/public/housing/JP","slug":"/my/public/housing/JP/rentalProperties","permalink":"/note/docs/my/public/housing/JP/rentalProperties","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"rent_zh","permalink":"/note/docs/my/public/housing/JP/rent_zh"},"next":{"title":"structure","permalink":"/note/docs/my/public/housing/JP/structure"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/housing/JP/rentalProperties","title":"rentalProperties","description":"","source":"@site/docs/my/public/housing/JP/rentalProperties.md","sourceDirName":"my/public/housing/JP","slug":"/my/public/housing/JP/rentalProperties","permalink":"/note/docs/my/public/housing/JP/rentalProperties","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"rent_zh","permalink":"/note/docs/my/public/housing/JP/rent_zh"},"next":{"title":"service","permalink":"/note/docs/my/public/housing/JP/service"}}');
 
 /***/ }),
 

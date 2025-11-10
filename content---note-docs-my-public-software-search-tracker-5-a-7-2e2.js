@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-search-tracker-md-5a7.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/search_tracker","title":"search_tracker","description":"2025-04-26  from perplexity.ai","source":"@site/docs/my/public/software/search_tracker.md","sourceDirName":"my/public/software","slug":"/my/public/software/search_tracker","permalink":"/note/docs/my/public/software/search_tracker","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"search_Comparison_of_Recoll_and_Tracker","permalink":"/note/docs/my/public/software/search_Comparison_of_Recoll_and_Tracker"},"next":{"title":"semver","permalink":"/note/docs/my/public/software/semver"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/search_tracker","title":"search_tracker","description":"2025-04-26  from perplexity.ai","source":"@site/docs/my/public/software/search_tracker.md","sourceDirName":"my/public/software","slug":"/my/public/software/search_tracker","permalink":"/note/docs/my/public/software/search_tracker","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"search_Comparison_of_Recoll_and_Tracker","permalink":"/note/docs/my/public/software/search_Comparison_of_Recoll_and_Tracker"},"next":{"title":"security","permalink":"/note/docs/my/public/software/security/"}}');
 
 /***/ }),
 

@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-cloud-terraform-md-dc3.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/cloud/Terraform","title":"Terraform","description":"overview","source":"@site/docs/my/public/software/cloud/Terraform.md","sourceDirName":"my/public/software/cloud","slug":"/my/public/software/cloud/Terraform","permalink":"/note/docs/my/public/software/cloud/Terraform","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"CDK","permalink":"/note/docs/my/public/software/cloud/CDK"},"next":{"title":"forConsumer","permalink":"/note/docs/my/public/software/cloud/forConsumer"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/cloud/Terraform","title":"Terraform","description":"overview","source":"@site/docs/my/public/software/cloud/Terraform.md","sourceDirName":"my/public/software/cloud","slug":"/my/public/software/cloud/Terraform","permalink":"/note/docs/my/public/software/cloud/Terraform","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"CDK","permalink":"/note/docs/my/public/software/cloud/CDK"},"next":{"title":"ai","permalink":"/note/docs/my/public/software/cloud/ai"}}');
 
 /***/ }),
 

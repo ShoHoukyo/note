@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-cloud-for-consumer-md-f6e.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/cloud/forConsumer","title":"forConsumer","description":"2024/05/07 Local-first software: You own your data, in spite of the cloud","source":"@site/docs/my/public/software/cloud/forConsumer.md","sourceDirName":"my/public/software/cloud","slug":"/my/public/software/cloud/forConsumer","permalink":"/note/docs/my/public/software/cloud/forConsumer","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"Terraform","permalink":"/note/docs/my/public/software/cloud/Terraform"},"next":{"title":"infra","permalink":"/note/docs/my/public/software/cloud/infra"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/cloud/forConsumer","title":"forConsumer","description":"2024/05/07 Local-first software: You own your data, in spite of the cloud","source":"@site/docs/my/public/software/cloud/forConsumer.md","sourceDirName":"my/public/software/cloud","slug":"/my/public/software/cloud/forConsumer","permalink":"/note/docs/my/public/software/cloud/forConsumer","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"ai","permalink":"/note/docs/my/public/software/cloud/ai"},"next":{"title":"infra","permalink":"/note/docs/my/public/software/cloud/infra"}}');
 
 /***/ }),
 

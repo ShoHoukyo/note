@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-excel-like-db-md-6a2.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/excel_like_db","title":"excel_like_db","description":"q","source":"@site/docs/my/public/software/excel_like_db.md","sourceDirName":"my/public/software","slug":"/my/public/software/excel_like_db","permalink":"/note/docs/my/public/software/excel_like_db","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"linux","permalink":"/note/docs/my/public/software/encryption/linux"},"next":{"title":"ffmpeg","permalink":"/note/docs/my/public/software/ffmpeg"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/excel_like_db","title":"excel_like_db","description":"q","source":"@site/docs/my/public/software/excel_like_db.md","sourceDirName":"my/public/software","slug":"/my/public/software/excel_like_db","permalink":"/note/docs/my/public/software/excel_like_db","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"engineer","permalink":"/note/docs/my/public/software/engineer"},"next":{"title":"ffmpeg","permalink":"/note/docs/my/public/software/ffmpeg"}}');
 
 /***/ }),
 

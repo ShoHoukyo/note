@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-housing-jp-structure-md-fe8.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/housing/JP/structure","title":"structure","description":"Floor Area Ratio (FAR)","source":"@site/docs/my/public/housing/JP/structure.md","sourceDirName":"my/public/housing/JP","slug":"/my/public/housing/JP/structure","permalink":"/note/docs/my/public/housing/JP/structure","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"rentalProperties","permalink":"/note/docs/my/public/housing/JP/rentalProperties"},"next":{"title":"tokyo","permalink":"/note/docs/my/public/housing/JP/tokyo"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/housing/JP/structure","title":"structure","description":"Floor Area Ratio (FAR)","source":"@site/docs/my/public/housing/JP/structure.md","sourceDirName":"my/public/housing/JP","slug":"/my/public/housing/JP/structure","permalink":"/note/docs/my/public/housing/JP/structure","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"service","permalink":"/note/docs/my/public/housing/JP/service"},"next":{"title":"tokyo","permalink":"/note/docs/my/public/housing/JP/tokyo"}}');
 
 /***/ }),
 

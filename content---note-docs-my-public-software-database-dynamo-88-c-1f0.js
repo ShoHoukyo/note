@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-database-dynamo-md-88c.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/database/dynamo","title":"dynamo","description":"2018 local setup (local java process)","source":"@site/docs/my/public/software/database/dynamo.md","sourceDirName":"my/public/software/database","slug":"/my/public/software/database/dynamo","permalink":"/note/docs/my/public/software/database/dynamo","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"csv","permalink":"/note/docs/my/public/software/database/csv"},"next":{"title":"graph","permalink":"/note/docs/my/public/software/database/graph"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/database/dynamo","title":"dynamo","description":"2018 local setup (local java process)","source":"@site/docs/my/public/software/database/dynamo.md","sourceDirName":"my/public/software/database","slug":"/my/public/software/database/dynamo","permalink":"/note/docs/my/public/software/database/dynamo","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"2025-11-10 by gemini","permalink":"/note/docs/my/public/software/database/datasette"},"next":{"title":"graph","permalink":"/note/docs/my/public/software/database/graph"}}');
 
 /***/ }),
 

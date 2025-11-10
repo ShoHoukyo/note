@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-database-csv-md-e7b.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/database/csv","title":"csv","description":"query","source":"@site/docs/my/public/software/database/csv.md","sourceDirName":"my/public/software/database","slug":"/my/public/software/database/csv","permalink":"/note/docs/my/public/software/database/csv","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"choose","permalink":"/note/docs/my/public/software/database/choose"},"next":{"title":"dynamo","permalink":"/note/docs/my/public/software/database/dynamo"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/database/csv","title":"csv","description":"query","source":"@site/docs/my/public/software/database/csv.md","sourceDirName":"my/public/software/database","slug":"/my/public/software/database/csv","permalink":"/note/docs/my/public/software/database/csv","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"choose","permalink":"/note/docs/my/public/software/database/choose"},"next":{"title":"2025-11-10 by gemini","permalink":"/note/docs/my/public/software/database/datasette"}}');
 
 /***/ }),
 

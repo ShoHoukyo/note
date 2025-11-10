@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-database-postgre-sql-md-899.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/database/PostgreSQL","title":"PostgreSQL","description":"database.schema.table","source":"@site/docs/my/public/software/database/PostgreSQL.md","sourceDirName":"my/public/software/database","slug":"/my/public/software/database/PostgreSQL","permalink":"/note/docs/my/public/software/database/PostgreSQL","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"How_to_get_list_of_top_50_used_relations_edge_in","permalink":"/note/docs/my/public/software/database/How_to_get_list_of_top_50_used_relations_edge_in"},"next":{"title":"choose","permalink":"/note/docs/my/public/software/database/choose"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/database/PostgreSQL","title":"PostgreSQL","description":"database.schema.table","source":"@site/docs/my/public/software/database/PostgreSQL.md","sourceDirName":"my/public/software/database","slug":"/my/public/software/database/PostgreSQL","permalink":"/note/docs/my/public/software/database/PostgreSQL","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"How_to_get_list_of_top_50_used_relations_edge_in","permalink":"/note/docs/my/public/software/database/How_to_get_list_of_top_50_used_relations_edge_in"},"next":{"title":"## q","permalink":"/note/docs/my/public/software/database/a_tool_to_interactively_explore_and_also_locally"}}');
 
 /***/ }),
 

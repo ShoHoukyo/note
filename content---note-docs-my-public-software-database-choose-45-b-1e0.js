@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-database-choose-md-45b.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/database/choose","title":"choose","description":"Designing Data-Intensive Applications","source":"@site/docs/my/public/software/database/choose.md","sourceDirName":"my/public/software/database","slug":"/my/public/software/database/choose","permalink":"/note/docs/my/public/software/database/choose","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"PostgreSQL","permalink":"/note/docs/my/public/software/database/PostgreSQL"},"next":{"title":"csv","permalink":"/note/docs/my/public/software/database/csv"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/database/choose","title":"choose","description":"Designing Data-Intensive Applications","source":"@site/docs/my/public/software/database/choose.md","sourceDirName":"my/public/software/database","slug":"/my/public/software/database/choose","permalink":"/note/docs/my/public/software/database/choose","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"## q","permalink":"/note/docs/my/public/software/database/a_tool_to_interactively_explore_and_also_locally"},"next":{"title":"csv","permalink":"/note/docs/my/public/software/database/csv"}}');
 
 /***/ }),
 

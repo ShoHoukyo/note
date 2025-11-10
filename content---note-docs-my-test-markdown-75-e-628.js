@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-test-markdown-md-75e.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/test/markdown","title":"markdown","description":"supports? https://github.github.com/gfm/","source":"@site/docs/my/test/markdown.md","sourceDirName":"my/test","slug":"/my/test/markdown","permalink":"/note/docs/my/test/markdown","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"wget","permalink":"/note/docs/my/public/software/wget"},"next":{"title":"testhtml","permalink":"/note/docs/my/test/testhtml"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/test/markdown","title":"markdown","description":"supports? https://github.github.com/gfm/","source":"@site/docs/my/test/markdown.md","sourceDirName":"my/test","slug":"/my/test/markdown","permalink":"/note/docs/my/test/markdown","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"2025-11-07 by gemini","permalink":"/note/docs/my/public/software/youtube"},"next":{"title":"testhtml","permalink":"/note/docs/my/test/testhtml"}}');
 
 /***/ }),
 
