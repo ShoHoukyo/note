@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-apple-security-md-da0.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/apple/security","title":"security","description":"2024-04-08 macOS - Security - Apple","source":"@site/docs/my/public/software/apple/security.md","sourceDirName":"my/public/software/apple","slug":"/my/public/software/apple/security","permalink":"/note/docs/my/public/software/apple/security","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"problem","permalink":"/note/docs/my/public/software/apple/problem"},"next":{"title":"spotlight","permalink":"/note/docs/my/public/software/apple/spotlight"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/apple/security","title":"security","description":"2024-04-08 macOS - Security - Apple","source":"@site/docs/my/public/software/apple/security.md","sourceDirName":"my/public/software/apple","slug":"/my/public/software/apple/security","permalink":"/note/docs/my/public/software/apple/security","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"problem","permalink":"/note/docs/my/public/software/apple/problem"},"next":{"title":"vm","permalink":"/note/docs/my/public/software/apple/vm"}}');
 
 /***/ }),
 

@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-game-md-b64.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/game","title":"game","description":"2024-12 magazine Mr.PC","source":"@site/docs/my/public/software/game.md","sourceDirName":"my/public/software","slug":"/my/public/software/game","permalink":"/note/docs/my/public/software/game","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"forum","permalink":"/note/docs/my/public/software/forum"},"next":{"title":"git","permalink":"/note/docs/my/public/software/git/"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/game","title":"game","description":"2024-12 magazine Mr.PC","source":"@site/docs/my/public/software/game.md","sourceDirName":"my/public/software","slug":"/my/public/software/game","permalink":"/note/docs/my/public/software/game","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"android","permalink":"/note/docs/my/public/software/fossil/android"},"next":{"title":"git","permalink":"/note/docs/my/public/software/git/"}}');
 
 /***/ }),
 

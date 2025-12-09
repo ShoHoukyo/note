@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-hardware-apple-md-d09.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/hardware/apple","title":"apple","description":"pros","source":"@site/docs/my/public/hardware/apple.md","sourceDirName":"my/public/hardware","slug":"/my/public/hardware/apple","permalink":"/note/docs/my/public/hardware/apple","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"for drawing","permalink":"/note/docs/my/public/hardware/apple/ipadPro"},"next":{"title":"battery","permalink":"/note/docs/my/public/hardware/battery"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/hardware/apple","title":"apple","description":"pros","source":"@site/docs/my/public/hardware/apple.md","sourceDirName":"my/public/hardware","slug":"/my/public/hardware/apple","permalink":"/note/docs/my/public/hardware/apple","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"watch","permalink":"/note/docs/my/public/hardware/apple/watch"},"next":{"title":"battery","permalink":"/note/docs/my/public/hardware/battery"}}');
 
 /***/ }),
 

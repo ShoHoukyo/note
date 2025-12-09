@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-im-wechat-md-c16.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/IM/wechat","title":"wechat","description":"to send (non-media) file on phone-app","source":"@site/docs/my/public/software/IM/wechat.md","sourceDirName":"my/public/software/IM","slug":"/my/public/software/IM/wechat","permalink":"/note/docs/my/public/software/IM/wechat","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"line","permalink":"/note/docs/my/public/software/IM/line"},"next":{"title":"index","permalink":"/note/docs/my/public/software/JavaScript/"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/IM/wechat","title":"wechat","description":"to send (non-media) file on phone-app","source":"@site/docs/my/public/software/IM/wechat.md","sourceDirName":"my/public/software/IM","slug":"/my/public/software/IM/wechat","permalink":"/note/docs/my/public/software/IM/wechat","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"line","permalink":"/note/docs/my/public/software/IM/line"},"next":{"title":"wecom","permalink":"/note/docs/my/public/software/IM/wecom"}}');
 
 /***/ }),
 

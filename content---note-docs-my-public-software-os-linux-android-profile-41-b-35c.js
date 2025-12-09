@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-os-linux-android-profile-md-41b.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/OS/Linux/Android/profile","title":"profile","description":"vm sandbox for privacy","source":"@site/docs/my/public/software/OS/Linux/Android/profile.md","sourceDirName":"my/public/software/OS/Linux/Android","slug":"/my/public/software/OS/Linux/Android/profile","permalink":"/note/docs/my/public/software/OS/Linux/Android/profile","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"zod","permalink":"/note/docs/my/public/software/JavaScript/zod"},"next":{"title":"tether","permalink":"/note/docs/my/public/software/OS/Linux/Android/tether"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/OS/Linux/Android/profile","title":"profile","description":"vm sandbox for privacy","source":"@site/docs/my/public/software/OS/Linux/Android/profile.md","sourceDirName":"my/public/software/OS/Linux/Android","slug":"/my/public/software/OS/Linux/Android/profile","permalink":"/note/docs/my/public/software/OS/Linux/Android/profile","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"outlook.com","permalink":"/note/docs/my/public/software/Microsoft/consumer/outlook.com"},"next":{"title":"tether","permalink":"/note/docs/my/public/software/OS/Linux/Android/tether"}}');
 
 /***/ }),
 

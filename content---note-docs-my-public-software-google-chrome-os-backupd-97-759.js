@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-google-chrome-os-backup-md-d97.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/Google/ChromeOS/backup","title":"backup","description":"- sync online to Google","source":"@site/docs/my/public/software/Google/ChromeOS/backup.md","sourceDirName":"my/public/software/Google/ChromeOS","slug":"/my/public/software/Google/ChromeOS/backup","permalink":"/note/docs/my/public/software/Google/ChromeOS/backup","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"version","permalink":"/note/docs/my/public/software/Google/Chrome/version"},"next":{"title":"linux","permalink":"/note/docs/my/public/software/Google/ChromeOS/linux"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/Google/ChromeOS/backup","title":"backup","description":"- sync online to Google","source":"@site/docs/my/public/software/Google/ChromeOS/backup.md","sourceDirName":"my/public/software/Google/ChromeOS","slug":"/my/public/software/Google/ChromeOS/backup","permalink":"/note/docs/my/public/software/Google/ChromeOS/backup","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"version","permalink":"/note/docs/my/public/software/Google/Chrome/version"},"next":{"title":"2025-11-27 by gemini","permalink":"/note/docs/my/public/software/Google/ChromeOS/emacs"}}');
 
 /***/ }),
 

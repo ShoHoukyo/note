@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-apple-headset-button-md-ec8.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/apple/headset_button","title":"headset_button","description":"q","source":"@site/docs/my/public/software/apple/headset_button.md","sourceDirName":"my/public/software/apple","slug":"/my/public/software/apple/headset_button","permalink":"/note/docs/my/public/software/apple/headset_button","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"hammerspoon","permalink":"/note/docs/my/public/software/apple/hammerspoon"},"next":{"title":"macOS","permalink":"/note/docs/my/public/software/apple/macOS"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/apple/headset_button","title":"headset_button","description":"q","source":"@site/docs/my/public/software/apple/headset_button.md","sourceDirName":"my/public/software/apple","slug":"/my/public/software/apple/headset_button","permalink":"/note/docs/my/public/software/apple/headset_button","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"hammerspoon","permalink":"/note/docs/my/public/software/apple/hammerspoon"},"next":{"title":"sandbox","permalink":"/note/docs/my/public/software/apple/macOS/sandbox"}}');
 
 /***/ }),
 

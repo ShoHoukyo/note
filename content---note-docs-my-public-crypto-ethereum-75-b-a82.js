@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-crypto-ethereum-md-75b.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/crypto/Ethereum","title":"I want to be a developer on its chain","description":"how does Ethereum work? (now it\'s proof of stake)","source":"@site/docs/my/public/crypto/Ethereum.md","sourceDirName":"my/public/crypto","slug":"/my/public/crypto/Ethereum","permalink":"/note/docs/my/public/crypto/Ethereum","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"pattern","permalink":"/note/docs/my/public/business/pattern"},"next":{"title":"bitcoin","permalink":"/note/docs/my/public/crypto/bitcoin"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/crypto/Ethereum","title":"I want to be a developer on its chain","description":"how does Ethereum work? (now it\'s proof of stake)","source":"@site/docs/my/public/crypto/Ethereum.md","sourceDirName":"my/public/crypto","slug":"/my/public/crypto/Ethereum","permalink":"/note/docs/my/public/crypto/Ethereum","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"industry","permalink":"/note/docs/my/public/business/robot/industry"},"next":{"title":"bitcoin","permalink":"/note/docs/my/public/crypto/bitcoin"}}');
 
 /***/ }),
 

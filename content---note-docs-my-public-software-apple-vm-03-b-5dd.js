@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-apple-vm-md-03b.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/apple/vm","title":"vm","description":"interesting:","source":"@site/docs/my/public/software/apple/vm.md","sourceDirName":"my/public/software/apple","slug":"/my/public/software/apple/vm","permalink":"/note/docs/my/public/software/apple/vm","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"spotlight","permalink":"/note/docs/my/public/software/apple/spotlight"},"next":{"title":"auth-openID","permalink":"/note/docs/my/public/software/architecture/auth-openID"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/apple/vm","title":"vm","description":"interesting:","source":"@site/docs/my/public/software/apple/vm.md","sourceDirName":"my/public/software/apple","slug":"/my/public/software/apple/vm","permalink":"/note/docs/my/public/software/apple/vm","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"security","permalink":"/note/docs/my/public/software/apple/security"},"next":{"title":"auth-openID","permalink":"/note/docs/my/public/software/architecture/auth-openID"}}');
 
 /***/ }),
 

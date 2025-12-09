@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-finance-jp-tax-investment-md-a38.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/finance/JP/tax/investment","title":"investment","description":"2024-02-26 a good table 証券税制と確定申告｜SBI証券","source":"@site/docs/my/finance/JP/tax/investment.md","sourceDirName":"my/finance/JP/tax","slug":"/my/finance/JP/tax/investment","permalink":"/note/docs/my/finance/JP/tax/investment","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"child_glass_medical_deduction","permalink":"/note/docs/my/finance/JP/tax/child_glass_medical_deduction"},"next":{"title":"tax","permalink":"/note/docs/my/finance/JP/tax"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/finance/JP/tax/investment","title":"investment","description":"2024-02-26 a good table 証券税制と確定申告｜SBI証券","source":"@site/docs/my/finance/JP/tax/investment.md","sourceDirName":"my/finance/JP/tax","slug":"/my/finance/JP/tax/investment","permalink":"/note/docs/my/finance/JP/tax/investment","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"furusato ふるさと納税","permalink":"/note/docs/my/finance/JP/tax/furusato"},"next":{"title":"tax","permalink":"/note/docs/my/finance/JP/tax"}}');
 
 /***/ }),
 

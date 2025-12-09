@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-web-css-tailwind-md-05a.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/Web/CSS/tailwind","title":"tailwind","description":"https://en.m.wikipedia.org/wiki/Tailwind_CSS","source":"@site/docs/my/public/software/Web/CSS/tailwind.md","sourceDirName":"my/public/software/Web/CSS","slug":"/my/public/software/Web/CSS/tailwind","permalink":"/note/docs/my/public/software/Web/CSS/tailwind","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"scss","permalink":"/note/docs/my/public/software/Web/CSS/scss"},"next":{"title":"HTMX","permalink":"/note/docs/my/public/software/Web/HTMX"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/Web/CSS/tailwind","title":"tailwind","description":"https://en.m.wikipedia.org/wiki/Tailwind_CSS","source":"@site/docs/my/public/software/Web/CSS/tailwind.md","sourceDirName":"my/public/software/Web/CSS","slug":"/my/public/software/Web/CSS/tailwind","permalink":"/note/docs/my/public/software/Web/CSS/tailwind","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"scss","permalink":"/note/docs/my/public/software/Web/CSS/scss"},"next":{"title":"user","permalink":"/note/docs/my/public/software/Web/CSS/user"}}');
 
 /***/ }),
 

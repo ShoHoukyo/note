@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-service-phone-md-59b.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/service/phone","title":"phone","description":"signal","source":"@site/docs/my/public/service/phone.md","sourceDirName":"my/public/service","slug":"/my/public/service/phone","permalink":"/note/docs/my/public/service/phone","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"phone-povo","permalink":"/note/docs/my/public/service/phone-povo"},"next":{"title":"travel","permalink":"/note/docs/my/public/service/travel"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/service/phone","title":"phone","description":"signal","source":"@site/docs/my/public/service/phone.md","sourceDirName":"my/public/service","slug":"/my/public/service/phone","permalink":"/note/docs/my/public/service/phone","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"phone-povo","permalink":"/note/docs/my/public/service/phone-povo"},"next":{"title":"aliexpress","permalink":"/note/docs/my/public/service/shopping/aliexpress"}}');
 
 /***/ }),
 

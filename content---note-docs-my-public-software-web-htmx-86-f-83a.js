@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-web-htmx-md-86f.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/Web/HTMX","title":"HTMX","description":"https://htmx.org/docs/#introduction","source":"@site/docs/my/public/software/Web/HTMX.md","sourceDirName":"my/public/software/Web","slug":"/my/public/software/Web/HTMX","permalink":"/note/docs/my/public/software/Web/HTMX","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"tailwind","permalink":"/note/docs/my/public/software/Web/CSS/tailwind"},"next":{"title":"back-end","permalink":"/note/docs/my/public/software/Web/back-end"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/Web/HTMX","title":"HTMX","description":"https://htmx.org/docs/#introduction","source":"@site/docs/my/public/software/Web/HTMX.md","sourceDirName":"my/public/software/Web","slug":"/my/public/software/Web/HTMX","permalink":"/note/docs/my/public/software/Web/HTMX","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"user","permalink":"/note/docs/my/public/software/Web/CSS/user"},"next":{"title":"back-end","permalink":"/note/docs/my/public/software/Web/back-end"}}');
 
 /***/ }),
 

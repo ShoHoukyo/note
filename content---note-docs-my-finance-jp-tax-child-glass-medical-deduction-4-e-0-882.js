@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-finance-jp-tax-child-glass-medical-deduction-md-4e0.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/finance/JP/tax/child_glass_medical_deduction","title":"child_glass_medical_deduction","description":"2025-06-22 by perplexity.ai","source":"@site/docs/my/finance/JP/tax/child_glass_medical_deduction.md","sourceDirName":"my/finance/JP/tax","slug":"/my/finance/JP/tax/child_glass_medical_deduction","permalink":"/note/docs/my/finance/JP/tax/child_glass_medical_deduction","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"nisa","permalink":"/note/docs/my/finance/JP/nisa"},"next":{"title":"investment","permalink":"/note/docs/my/finance/JP/tax/investment"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/finance/JP/tax/child_glass_medical_deduction","title":"child_glass_medical_deduction","description":"2025-06-22 by perplexity.ai","source":"@site/docs/my/finance/JP/tax/child_glass_medical_deduction.md","sourceDirName":"my/finance/JP/tax","slug":"/my/finance/JP/tax/child_glass_medical_deduction","permalink":"/note/docs/my/finance/JP/tax/child_glass_medical_deduction","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"nisa","permalink":"/note/docs/my/finance/JP/nisa"},"next":{"title":"furusato ふるさと納税","permalink":"/note/docs/my/finance/JP/tax/furusato"}}');
 
 /***/ }),
 

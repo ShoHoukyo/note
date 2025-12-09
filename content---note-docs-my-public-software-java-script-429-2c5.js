@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-java-script-index-md-429.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/JavaScript/index","title":"index","description":"misc","source":"@site/docs/my/public/software/JavaScript/index.md","sourceDirName":"my/public/software/JavaScript","slug":"/my/public/software/JavaScript/","permalink":"/note/docs/my/public/software/JavaScript/","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{"mdxOptions":{"format":"md"}},"sidebar":"mySidebar","previous":{"title":"wechat","permalink":"/note/docs/my/public/software/IM/wechat"},"next":{"title":"bug","permalink":"/note/docs/my/public/software/JavaScript/React/bug"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/JavaScript/index","title":"index","description":"misc","source":"@site/docs/my/public/software/JavaScript/index.md","sourceDirName":"my/public/software/JavaScript","slug":"/my/public/software/JavaScript/","permalink":"/note/docs/my/public/software/JavaScript/","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{"mdxOptions":{"format":"md"}},"sidebar":"mySidebar","previous":{"title":"wecom","permalink":"/note/docs/my/public/software/IM/wecom"},"next":{"title":"bug","permalink":"/note/docs/my/public/software/JavaScript/React/bug"}}');
 
 /***/ }),
 

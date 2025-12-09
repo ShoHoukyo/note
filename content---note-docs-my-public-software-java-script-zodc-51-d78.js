@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-java-script-zod-md-c51.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/JavaScript/zod","title":"zod","description":"vs. Typescript","source":"@site/docs/my/public/software/JavaScript/zod.md","sourceDirName":"my/public/software/JavaScript","slug":"/my/public/software/JavaScript/zod","permalink":"/note/docs/my/public/software/JavaScript/zod","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"vite","permalink":"/note/docs/my/public/software/JavaScript/vite"},"next":{"title":"profile","permalink":"/note/docs/my/public/software/OS/Linux/Android/profile"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/JavaScript/zod","title":"zod","description":"vs. Typescript","source":"@site/docs/my/public/software/JavaScript/zod.md","sourceDirName":"my/public/software/JavaScript","slug":"/my/public/software/JavaScript/zod","permalink":"/note/docs/my/public/software/JavaScript/zod","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"vite","permalink":"/note/docs/my/public/software/JavaScript/vite"},"next":{"title":"onenote","permalink":"/note/docs/my/public/software/Microsoft/Office/onenote"}}');
 
 /***/ }),
 

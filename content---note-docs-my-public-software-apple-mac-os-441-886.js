@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-apple-mac-os-md-441.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/apple/macOS","title":"macOS","description":"problem con","source":"@site/docs/my/public/software/apple/macOS.md","sourceDirName":"my/public/software/apple","slug":"/my/public/software/apple/macOS","permalink":"/note/docs/my/public/software/apple/macOS","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"headset_button","permalink":"/note/docs/my/public/software/apple/headset_button"},"next":{"title":"macos_crontab_did_not_run_how_to_debug_where_to","permalink":"/note/docs/my/public/software/apple/macos_crontab_did_not_run_how_to_debug_where_to"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/apple/macOS","title":"macOS","description":"problem con","source":"@site/docs/my/public/software/apple/macOS.md","sourceDirName":"my/public/software/apple","slug":"/my/public/software/apple/macOS","permalink":"/note/docs/my/public/software/apple/macOS","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"sandbox","permalink":"/note/docs/my/public/software/apple/macOS/sandbox"},"next":{"title":"macos_crontab_did_not_run_how_to_debug_where_to","permalink":"/note/docs/my/public/software/apple/macos_crontab_did_not_run_how_to_debug_where_to"}}');
 
 /***/ }),
 

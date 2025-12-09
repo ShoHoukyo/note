@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-ai-openai-md-aae.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/AI/openai","title":"openai","description":"2025/05/22 OpenAI Platform","source":"@site/docs/my/AI/openai.md","sourceDirName":"my/AI","slug":"/my/AI/openai","permalink":"/note/docs/my/AI/openai","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"model","permalink":"/note/docs/my/AI/model"},"next":{"title":"prompt","permalink":"/note/docs/my/AI/prompt"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/AI/openai","title":"openai","description":"2025/05/22 OpenAI Platform","source":"@site/docs/my/AI/openai.md","sourceDirName":"my/AI","slug":"/my/AI/openai","permalink":"/note/docs/my/AI/openai","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"model","permalink":"/note/docs/my/AI/model"},"next":{"title":"production","permalink":"/note/docs/my/AI/production"}}');
 
 /***/ }),
 

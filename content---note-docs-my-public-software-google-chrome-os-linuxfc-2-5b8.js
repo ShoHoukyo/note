@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-google-chrome-os-linux-md-fc2.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/Google/ChromeOS/linux","title":"linux","description":"2023-11-27 Back up & restore your Linux files and apps - Chromebook Help","source":"@site/docs/my/public/software/Google/ChromeOS/linux.md","sourceDirName":"my/public/software/Google/ChromeOS","slug":"/my/public/software/Google/ChromeOS/linux","permalink":"/note/docs/my/public/software/Google/ChromeOS/linux","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"backup","permalink":"/note/docs/my/public/software/Google/ChromeOS/backup"},"next":{"title":"use","permalink":"/note/docs/my/public/software/Google/ChromeOS/use"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/Google/ChromeOS/linux","title":"linux","description":"2023-11-27 Back up & restore your Linux files and apps - Chromebook Help","source":"@site/docs/my/public/software/Google/ChromeOS/linux.md","sourceDirName":"my/public/software/Google/ChromeOS","slug":"/my/public/software/Google/ChromeOS/linux","permalink":"/note/docs/my/public/software/Google/ChromeOS/linux","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"2025-11-27 by gemini","permalink":"/note/docs/my/public/software/Google/ChromeOS/emacs"},"next":{"title":"use","permalink":"/note/docs/my/public/software/Google/ChromeOS/use"}}');
 
 /***/ }),
 

@@ -12,7 +12,7 @@
 /***/ "./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-my-public-software-forum-md-c69.json":
 /***/ ((module) => {
 
-module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/forum","title":"forum","description":"https://github.com/AWSinAction/code3/","source":"@site/docs/my/public/software/forum.md","sourceDirName":"my/public/software","slug":"/my/public/software/forum","permalink":"/note/docs/my/public/software/forum","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"find","permalink":"/note/docs/my/public/software/find"},"next":{"title":"game","permalink":"/note/docs/my/public/software/game"}}');
+module.exports = /*#__PURE__*/JSON.parse('{"id":"my/public/software/forum","title":"forum","description":"https://github.com/AWSinAction/code3/","source":"@site/docs/my/public/software/forum.md","sourceDirName":"my/public/software","slug":"/my/public/software/forum","permalink":"/note/docs/my/public/software/forum","draft":false,"unlisted":false,"tags":[],"version":"current","frontMatter":{},"sidebar":"mySidebar","previous":{"title":"find","permalink":"/note/docs/my/public/software/find"},"next":{"title":"android","permalink":"/note/docs/my/public/software/fossil/android"}}');
 
 /***/ }),
 
